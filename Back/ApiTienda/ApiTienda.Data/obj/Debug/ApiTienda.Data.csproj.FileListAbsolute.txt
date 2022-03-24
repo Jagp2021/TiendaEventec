@@ -1,0 +1,12 @@
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\obj\Debug\ApiTienda.Data.csprojAssemblyReference.cache
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\obj\Debug\ApiTienda.Data.csproj.CoreCompileInputs.cache
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\bin\Debug\ApiTienda.Data.dll.config
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\bin\Debug\ApiTienda.Data.dll
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\bin\Debug\ApiTienda.Data.pdb
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\bin\Debug\EntityFramework.dll
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\bin\Debug\EntityFramework.xml
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\obj\Debug\ApiTienda.Data.csproj.CopyComplete
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\obj\Debug\ApiTienda.Data.dll
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Data\obj\Debug\ApiTienda.Data.pdb

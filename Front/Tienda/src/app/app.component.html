@@ -1,0 +1,25 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Tienda</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" routerLink="productos">Inicio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="listado" >Mis Pedidos</a>
+        </li>
+      </ul>
+      <div class="form-inline" style="width: 90%;text-align: right;" *ngIf="getUsuario()">
+        <p>Bienvenido {{usuario.name}}</p>
+        <a (click)="close()">Cerrar Sesión</a>
+      </div>
+    </div>
+  </div>
+</nav>
+<div class="container" style="padding-top: 20px">
+  <router-outlet></router-outlet>
+</div>

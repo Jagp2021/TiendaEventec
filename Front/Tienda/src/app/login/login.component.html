@@ -1,0 +1,31 @@
+<h2 mat-dialog-title>Bienvenido a la Tienda XYZ</h2>
+<mat-dialog-content class="mat-typography">
+  <h3>Por favor ingrese los siguientes datos para poder realizar una compra</h3>
+  <form [formGroup]="form">
+      
+    <div class="mb-3">
+        <label for="nombres" class="form-label">Nombres</label>
+        <input type="text" class="form-control" id="nombres"  formControlName="nombre">
+        <mat-error *ngIf="formularioControls.nombre?.invalid && (formularioControls.nombre?.dirty || formularioControls.nombre?.touched)">
+            <span *ngIf="formularioControls.nombre.errors?.required"> El campo Nombres es requerido</span>
+        </mat-error>
+      </div>
+      <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input type="email" class="form-control" id="email" formControlName="email">
+        <mat-error *ngIf="formularioControls.email?.invalid && (formularioControls.email?.dirty || formularioControls.email?.touched)">
+            <span *ngIf="formularioControls.email.errors?.required"> El campo Email es requerido</span>
+            <span *ngIf="formularioControls.email.errors?.email"> El campo Email tiene un formato incorrecto</span>
+        </mat-error>
+      </div>
+      <div class="mb-3">
+        <label for="phone" class="form-label">Teléfono Movil</label>
+        <input type="text" class="form-control" id="phone" formControlName="phone">
+        <mat-error *ngIf="formularioControls.phone?.invalid && (formularioControls.phone?.dirty || formularioControls.phone?.touched)">
+            <span *ngIf="formularioControls.phone.errors?.required"> El campo Teléfono Movil es requerido</span>
+        </mat-error>
+      </div>
+   </form>
+</mat-dialog-content>
+
+    <a class="btn bnt-primary" (click)="ingresar()">Ingresar</a>

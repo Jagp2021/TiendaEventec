@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ApiTienda.Business" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Login" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6dd490faf9cb87a9862245da41170ff2</Value>
+    </Setting>
+    <Setting Name="TranKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">iQhxZqnRbJe</Value>
+    </Setting>
+    <Setting Name="UrlPaymentService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://checkout-test.placetopay.com/api/session/</Value>
+    </Setting>
+    <Setting Name="UrlSearchPayment" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://test.placetopay.com/redirection/api/session/</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

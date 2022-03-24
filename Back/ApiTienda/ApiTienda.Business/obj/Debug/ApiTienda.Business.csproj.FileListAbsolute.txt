@@ -1,0 +1,17 @@
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\obj\Debug\ApiTienda.Business.csprojAssemblyReference.cache
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\obj\Debug\ApiTienda.Business.csproj.CoreCompileInputs.cache
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\ApiTienda.Business.dll.config
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\ApiTienda.Business.dll
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\ApiTienda.Business.pdb
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\ApiTienda.Data.dll
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\AutoMapper.dll
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\EntityFramework.dll
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\ApiTienda.Data.pdb
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\ApiTienda.Data.dll.config
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\AutoMapper.xml
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\EntityFramework.xml
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\obj\Debug\ApiTienda.Business.csproj.CopyComplete
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\obj\Debug\ApiTienda.Business.dll
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\obj\Debug\ApiTienda.Business.pdb
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Javi\source\repos\ApiTienda\ApiTienda.Business\bin\Debug\Newtonsoft.Json.xml
